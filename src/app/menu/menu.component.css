@@ -1,0 +1,45 @@
+.menu{
+	box-shadow: 2px 4px 4px 2px rgba(2, 2, 2, 0.25);
+}
+
+.cor-textos {
+    color: #D9C2AD;
+}
+
+.bg-navbarCostum {
+    background-color: #02050D;
+}
+
+.tamanho-redeSocial {
+
+}
+
+.borda-CV {
+    background-color: blanchedalmond;
+    border: black solid 0px;
+    border-radius: 10px;
+}
+
+nav ul li .nav-nome {
+    color: white;
+	font-size: 18px;
+	border-bottom: 3px solid white ;
+}
+
+nav ul li .nav-nome:hover{
+	border-bottom: 3px solid  #D9C2AD ;
+}
+
+nav ul li .nav-cv {
+	text-align: center;
+	width: 110px;
+	font-size: 14px;
+	background-color: #686C73; 
+	border-radius:15px;
+	padding: 10px;
+	font-weight: bold;
+}
+
+nav ul li .nav-cv:hover{
+	background-color: #e57373;	
+}
